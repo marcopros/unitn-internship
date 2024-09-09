@@ -13,7 +13,7 @@ Il progetto si divide nelle seguenti sezioni principali:
 
 1. **Preparazione del dataset sintetico**: la creazione e gestione dei dataset utilizzati per testare i metodi di ricostruzione 3D.
 2. **Implementazione di COLMAP**: l'uso di COLMAP per la generazione di modelli 3D a partire dai dataset.
-3. **Implementazione di SUGAR**: un confronto con SuGaR, per valutare le differenze di prestazioni e qualità rispetto a COLMAP.
+3. **Implementazione di SUGAR**: ricostruzione tramite SuGaR, per valutare le differenze di prestazioni e qualità rispetto a COLMAP.
 4. **Analisi dei risultati**: confronto tra i due metodi in termini di accuratezza e velocità di esecuzione, tramite il software CloudCompare.
 
 
