@@ -23,6 +23,7 @@ Sono stati utilizzati 9 dataset sintetici, ottenuti tramite il [nerf-dataset-cre
 | Info  | Val |
 |-------------------|-----------------|
 | **Dimensioni**      |   ~1GB per modello      |
+| **Immagini** | 250 per modello |
 | **Formato**      | PNG        |
 | **Risoluzione**      | 800x800       |
 
