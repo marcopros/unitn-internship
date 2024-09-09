@@ -5,7 +5,7 @@
 Questo progetto di tirocinio è stato sviluppato presso l'Università di Trento e riguarda la **ricostruzione 3D** a partire da dataset sintetici utilizzando due metodi principali:
 
 - **COLMAP**: un software per la ricostruzione 3D che esegue Structure-from-Motion (SfM) e Multi-View Stereo (MVS).
-- **SuGaR**: un'alternativa basata su 3D Gaussian Splatting.
+- **SuGaR**: un'alternativa più recente per la ricostruzione 3D basata su 3D Gaussian Splatting.
 
 ## Contenuti del Progetto
 
@@ -23,10 +23,3 @@ Puoi visualizzare i risultati della ricostruzione 3D ai seguenti link su Google 
 
 https://drive.google.com/drive/folders/1TwfDqCzI4fV9StuTM7iw1mN32opuhV8B?usp=share_link
 
-## Contributi
-
-Sentiti libero di aprire issue o proporre miglioramenti tramite pull request.
-
----
-
-Se hai bisogno di modifiche o dettagli specifici, fammi sapere!
