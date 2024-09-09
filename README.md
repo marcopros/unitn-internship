@@ -21,8 +21,8 @@ Il progetto si divide nelle seguenti sezioni principali:
 
 Puoi visualizzare i risultati della ricostruzione 3D ai seguenti link su Google Drive:
 
-https://drive.google.com/drive/link_colmap](https://drive.google.com/drive/folders/1TwfDqCzI4fV9StuTM7iw1mN32opuhV8B?usp=share_link
-  
+https://drive.google.com/drive/folders/1TwfDqCzI4fV9StuTM7iw1mN32opuhV8B?usp=share_link
+
 ## Contributi
 
 Sentiti libero di aprire issue o proporre miglioramenti tramite pull request.
