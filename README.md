@@ -17,6 +17,16 @@ Il progetto si divide nelle seguenti sezioni principali:
 4. **Analisi dei risultati**: confronto tra i due metodi in termini di accuratezza e velocità di esecuzione, tramite il software CloudCompare.
 
 
+## Dataset
+Sono stati utilizzati 9 dataset sintetici, ottenuti tramite il [nerf-dataset-creator-plugin](https://github.com/AndreaMas/nerf-dataset-creator-plugin), in particolare 5 outdoor e 4 indoor. Di seguito le informazioni sui dataset.
+
+| Info  | Val |
+|-------------------|-----------------|
+| **Dimensioni**      |   ~1GB per modello      |
+| **Formato**      | PNG        |
+| **Risoluzione**      | 800x800       |
+
+
 ## Risultati
 
 Puoi visualizzare i risultati della ricostruzione 3D ai seguenti link su Google Drive:
