@@ -30,7 +30,7 @@ Sono stati utilizzati 9 dataset sintetici, ottenuti tramite il [nerf-dataset-cre
 
 ## Risultati
 
-Puoi visualizzare i risultati della ricostruzione 3D al seguenti link su Google Drive:
+Puoi visualizzare i risultati della ricostruzione 3D al seguente link su Google Drive:
 
 https://drive.google.com/drive/folders/1TwfDqCzI4fV9StuTM7iw1mN32opuhV8B?usp=share_link
 
